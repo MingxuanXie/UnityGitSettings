@@ -76,3 +76,7 @@ crashlytics-build.properties
 
 # Ignore 3rd party software backup files
 *.blend1
+
+# Ignore Screenshots
+/[Aa]ssets/[Ss]creenshots.meta
+/[Aa]ssets/[Ss]creenshots/
